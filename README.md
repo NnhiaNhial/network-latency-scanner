@@ -74,4 +74,4 @@ NnhiaNhial (Big-Zoo)
 
 Feel free to reach out if you want to collaborate or improve the script!
 
-You can just copy-paste this into your `README.md`. Want me to help with the actual Bash script next?
+
